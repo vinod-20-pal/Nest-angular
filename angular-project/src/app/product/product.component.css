@@ -1,0 +1,30 @@
+.header-class {
+    height: 20px;
+    margin-bottom: 50px;
+}
+.header-text {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.card {
+    margin: 10px;
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+}
+
+.heading-class {
+    display: flex;
+}
+
+.pointer{
+    cursor: pointer !important;
+}
+
+.modal-body{
+    width: 114% !important;
+}
+.form-control{
+    width: 350px;
+}
